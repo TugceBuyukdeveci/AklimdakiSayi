@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\aklımdaki sayı\aklımdaki sayı\bin\Debug\aklımdaki sayı.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\aklımdaki sayı\aklımdaki sayı\bin\Debug\aklımdaki sayı.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\aklımdaki sayı\aklımdaki sayı\obj\x86\Debug\aklımdaki sayı.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\aklımdaki sayı\aklımdaki sayı\obj\x86\Debug\aklımdaki sayı.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\aklımdaki sayı\aklımdaki sayı\obj\x86\Debug\aklımdaki sayı.csprojResolveAssemblyReference.cache
